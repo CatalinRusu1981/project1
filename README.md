@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
-  <title>Titlul meu</title>
+  <title>Articol</title>
 </head>
 <body>
 <h1>Vreu sa invat programare<h/1>
